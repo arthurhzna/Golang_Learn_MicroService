@@ -1,8 +1,7 @@
 # Learning Microservices with Go
 
-Repository ini dibuat untuk mendokumentasikan progress belajar dari course:  
+This repository was created to document my learning progress from the course:  
 👉 [Working with Microservices in Go (Udemy)](https://www.udemy.com/course/working-with-microservices-in-go/)
-
 
 This repository contains a Go implementation of microservices I built to learn microservices architecture. The project consists of several independent services that communicate with each other.
 
@@ -81,6 +80,5 @@ make clean
 ## 🔧 Key Technologies
 - **Databases**: PostgreSQL, MongoDB
 - **Message Broker**: RabbitMQ
-- **Service Discovery**: etcd
 - **Container**: Docker
 - **Orchestration**: Kubernetes
